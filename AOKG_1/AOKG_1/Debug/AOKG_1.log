@@ -1,0 +1,4 @@
+﻿  AOKG_1.cpp
+C:\Users\vadim\source\repos\AOKG_1\AOKG_1\AOKG_1.cpp(60,36): warning C4305: аргумент: усечение из "double" в "GLclampf"
+C:\Users\vadim\source\repos\AOKG_1\AOKG_1\AOKG_1.cpp(111,6): error C2084: функция "void KeyboardFunc(unsigned char,int,int)" уже имеет текст реализации
+C:\Users\vadim\source\repos\AOKG_1\AOKG_1\AOKG_1.cpp(76): message : см. предыдущее определение "KeyboardFunc"
